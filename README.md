@@ -1,10 +1,10 @@
 # Data-Analysis-in-Real-Life
 
-<h1> Introduction </h1>
+<h2> Introduction </h2>
 
 In today's data-driven world, the significance of data analysis cannot be overstated. From guiding business strategies to making personal decisions, data analysis plays a crucial role in various aspects of our lives. This project explores the step-by-step procedure of data analysis using a real-life scenario: helping Riya decide which postgraduate degree to pursue.
 
-Project Overview
+<h2>Project Overview</h2>
 
 This project demonstrates the process of data analysis through the lens of Riya, a prospective postgraduate student faced with the task of selecting a degree program. The analysis follows a structured approach consisting of six key steps:
 
@@ -20,6 +20,6 @@ Share: Communicate the findings and insights effectively with advisors, mentors,
 
 Act: Make informed decisions based on the analysis. Use the insights gained from the data analysis to make a well-informed choice regarding the postgraduate degree program.
 
-Conclusion
+<h2>Conclusion</h2>
 
 Through the example of Riya's decision-making process, this project illustrates how data analysis can be applied to real-life scenarios to inform decision-making and drive meaningful outcomes. By following a structured approach, individuals can leverage data analysis techniques to make informed choices and achieve their goals effectively.
