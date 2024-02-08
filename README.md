@@ -1,6 +1,6 @@
 # Data-Analysis-in-Real-Life
 
-<h6>Introduction</h6>
+###Introduction
 
 In today's data-driven world, the significance of data analysis cannot be overstated. From guiding business strategies to making personal decisions, data analysis plays a crucial role in various aspects of our lives. This project explores the step-by-step procedure of data analysis using a real-life scenario: helping Riya decide which postgraduate degree to pursue.
 
